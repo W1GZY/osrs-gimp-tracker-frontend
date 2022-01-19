@@ -1,1 +1,1 @@
-const CONFIG_BACKEND_URL = 'https://w1gzy.github.io/osrs-gimp-tracker-frontend/'
+const CONFIG_BACKEND_URL = 'https://runelitetracker.herokuapp.com/'
